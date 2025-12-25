@@ -3,6 +3,8 @@
 A modern, responsive personal portfolio website built with **HTML, CSS, and JavaScript**.  
 Features a sleek glassmorphism UI, animated hero section, scroll-reveal effects, theme toggle (dark/light), contact form integration, and **auto-loaded projects from GitHub** with a smart fallback + caching system.
 
+🌐 **Live Demo:** https://shantanukunduportfolio.netlify.app/
+
 ## ✨ Features
 - ✅ Modern UI (glassmorphism + gradient blobs + subtle noise)
 - ✅ Fully responsive (mobile nav + optimized layout)
@@ -33,6 +35,3 @@ Features a sleek glassmorphism UI, animated hero section, scroll-reveal effects,
     ├── favicon.png
     ├── profile.png
     └── ShantanuKundu-CV.pdf
-
-
-##Link:https://shantanukunduportfolio.netlify.app/
